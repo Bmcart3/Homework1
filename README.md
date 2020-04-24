@@ -1,3 +1,10 @@
+In this project, I was tasked with improving the accessibility of the Horiseon webpage. This involved many small changes to allow screen readers and various technologies to give more information to sight impaired users. These changes included adding alt attributes to images and also including a more descriptive title. I also took the time to replace many nonsemantic tags with semantic tags to improve readability of HTML code. In the CSS file, there were many classes that had identical styling which I was able to consolidate into one class. After consolidating, I was able to rearrange these to be in a more intuitive and logical order to make it a bit easier to read through.
+
+
+
+
+
+
 # 01 HTML CSS Git: Code Refactor
 
 One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
